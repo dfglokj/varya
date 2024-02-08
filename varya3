@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!-- saved from url=(0064)file:///C:/Users/%D0%90%D0%BD%D1%8F/Desktop/VS%20code/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="widht=device-widht, initial-scale=1.0">
+        <title> centreeinstein.ml </title>
+        <link rel="stylesheet" href="C:\Users\Аня\Desktop\VS code\.vscode\css\style.css">
+    </head>
+    <body>
+        <h1> С днём рождения!:-* </h1>
+      <p id="msg">Братан, поздравляю тебя с днём рождения! Так как сейчас я не могу подарить тебе подарок, решила сделать тебе хоть что-то)) Я хочу пожелать тебе: </p>
+      <ul>
+        <li class="list">Здоровья (Чтобы ты никогда не болела в свой День рождения:)) </li>
+        <li class="list"> Много денег (Чтобы ты смогла покупать себе вещи с корейцами)</li> 
+        <li class="list"> Хороших оценок (Чтобы ты в будущем смогла поступить в самый лучший колледж и не стала бомжом;)) </li>
+        <li class="list"> Ну, и естественно исполнения всех желаний:D </li>
+        <h1> Куда же без видео:D </h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Dmz8pV7eNa0?si=0MlPm8da22fzLJAf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <h2> А это наши совместные фотографии:))))) (Смогла прикрепить только 10 штук, так как не хватило времени:( ) </h2>
+        <p> 1. </p>
+        <img width="500" height="500" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo2.jpg">
+        <p> 2. </p>
+        <img width="300" height="650" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo3.jpg">
+
+        <p> 3. </p>
+        <img width="300" height="650" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo4.jpg">
+
+        <p> 4. </p>
+        <img width="700" height="500" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo5.jpg">
+
+        <p> 5. </p>
+        <img width="700" height="500" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo6.jpg">
+
+        <p> 6. </p>
+        <img width="700" height="500" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo7.jpg"> 
+
+        <p> 7. </p>
+        <img width="400" height="650" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo8.jpeg">
+
+        <p> 8. </p>
+        <img width="700" height="500" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo9.jpg">
+
+        <p> 9. </p>
+        <img width="800" height="650" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo10.jpg">
+
+        <p> 10. </p>
+        <img width="700" height="600" src="C:\Users\Аня\Desktop\VS code\.vscode\photos\photo11.jpg">
+        <p> И ещё одно видео)) </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TxGh5tbyBIQ?si=y6KY-_z8fhEMciV6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </ul></body></html>
